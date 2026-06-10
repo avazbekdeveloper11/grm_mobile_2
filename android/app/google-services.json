@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "266892889801",
+    "project_id": "grm-mobile",
+    "storage_bucket": "grm-mobile.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:266892889801:android:b69368f17f7744cbc6c718",
+        "android_client_info": {
+          "package_name": "com.gilamapp.gilam_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAXYgw3PK5cYYfschz7IHaUmzpW4mdklM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
